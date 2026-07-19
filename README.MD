@@ -76,13 +76,14 @@ También puedes abrir el proyecto como proyecto Maven en **IntelliJ IDEA**, **Ec
 5. Usa **"Resolver Automáticamente"** para ver la solución animada.
 
 ## 🖼️ Capturas de pantalla
-
-<!-- Agrega aquí tus imágenes o gifs del proyecto, por ejemplo: -->
 **Pantalla Configuración**
+
 ![Pantalla Configuración](src/main/java/com/mycompany/torrehanoi/images/PantallaUno.png)
 
 **Pantalla Principal**
+
 ![Pantalla Principal](src/main/java/com/mycompany/torrehanoi/images/PantallaDos.png)
 
 **Pantalla Final**
+
 ![Pantalla Final](src/main/java/com/mycompany/torrehanoi/images/PantallaTres.png)

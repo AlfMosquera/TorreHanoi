@@ -20,7 +20,7 @@ public class Main {
         } catch (Exception ignored) {
         }
 
-        JFrame ventana = new JFrame("Torre de Hanói - Edición Premium");
+        JFrame ventana = new JFrame("Torre de Hanoi");
         TorreHanoiPanel panelDibujo = new TorreHanoiPanel();
 
         JPanel panelControles = new JPanel();

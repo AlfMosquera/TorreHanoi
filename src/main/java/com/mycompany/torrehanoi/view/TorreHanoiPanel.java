@@ -42,7 +42,6 @@ public class TorreHanoiPanel extends JPanel {
         });
     }
 
-    /** Pide al usuario el número de discos y reinicia la partida con ese valor. */
     public void solicitarNumeroDiscos() {
         String entrada = JOptionPane.showInputDialog(null, "Inserte el número de discos:", "Configuración Inicial", JOptionPane.QUESTION_MESSAGE);
         if (entrada == null || entrada.trim().isEmpty()) {
@@ -136,7 +135,6 @@ public class TorreHanoiPanel extends JPanel {
         }
     }
 
-    /** Lanza en un hilo aparte la resolución automática del rompecabezas, animando cada movimiento. */
     public void iniciarResolucionAutomatica() {
         if (modoAutomaticoActivo || modelo.esVictoria()) return;
         if (!modelo.estaEnEstadoInicial()) reiniciarPartida(modelo.getNumeroDiscos());

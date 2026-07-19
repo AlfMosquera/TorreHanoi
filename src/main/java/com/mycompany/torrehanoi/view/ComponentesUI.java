@@ -1,4 +1,4 @@
-package com.mycompany.torrehanoi.vista;
+package com.mycompany.torrehanoi.view;
 
 import java.awt.Color;
 import java.awt.Cursor;

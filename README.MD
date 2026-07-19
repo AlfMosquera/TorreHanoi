@@ -79,7 +79,7 @@ También puedes abrir el proyecto como proyecto Maven en **IntelliJ IDEA**, **Ec
 
 <!-- Agrega aquí tus imágenes o gifs del proyecto, por ejemplo: -->
 **Pantalla Configuración**
-![Pantalla Configuración]src/main/java/com/mycompany/torrehanoi/images/PantallaUno.png)
+![Pantalla Configuración](src/main/java/com/mycompany/torrehanoi/images/PantallaUno.png)
 
 **Pantalla Principal**
 ![Pantalla Principal](src/main/java/com/mycompany/torrehanoi/images/PantallaDos.png)
